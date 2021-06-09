@@ -1,0 +1,3 @@
+javaOffers:
+      cloud:
+         start: 'hello spring-cloud-config-server'
